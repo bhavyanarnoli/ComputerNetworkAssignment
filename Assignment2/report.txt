@@ -1,0 +1,5 @@
+- Transmission Control Protocol or TCP.
+Have to implement
+- eventually gets delivered, in the correct order to the correct destination on the other side.
+- how much data they are prepared to accept
+- make sure not to send more than the other side is wdilling to accept.
